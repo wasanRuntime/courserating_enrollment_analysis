@@ -13,7 +13,7 @@ The analysis performed includes data cleaning, conversion of relevant columns to
 ## Correlation Heatmap
 The correlation heatmap illustrates the positive correlation between course ratings and the number of students enrolled. Higher course ratings are associated with a greater number of students enrolled.
 
-![Correlation Heatmap](..\images\corr_heatmap)
+![Correlation Heatmap](../image/corr_heatmap.png)
 
 ## Installation Instructions
 To run this analysis, ensure you have the following libraries installed:
